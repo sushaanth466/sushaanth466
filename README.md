@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Sushaanth 👋
 
-<!--
-**sushaanth466/sushaanth466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Developer passionate about building intelligent systems that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Healthcare AI
+- Agentic AI Systems
+- Multi-Agent Applications
+- Computer Vision
+- Full Stack Development
+
+## 🛠 Tech Stack
+
+Python • TypeScript • React • Next.js • MongoDB • PostgreSQL
+
+## Featured Projects
+
+### 🏥 MediCare-AI
+AI-powered healthcare platform for doctors and patients.
+
+### 💊 Smart Pharmacy System
+Intelligent medicine management and prescription automation.
+
+### 🚦 Smart Traffic Management System
+Traffic optimization using AI and computer vision.
+
+### 🤖 Multi User Chatbot
+Scalable conversational AI system supporting multiple users.
+
+## 📫 Connect
+
+LinkedIn: www.linkedin.com/in/sushanth-mandumula-0496bb2b6
+
